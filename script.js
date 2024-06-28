@@ -7,7 +7,7 @@ const page2P = document.querySelector('.text-2');
 page1button.addEventListener('click', handleClick);
 page2button.addEventListener('click', handleResetClick);
 
-var array = ["Se alguém está tão cansado que\n não possa te dar um sorriso,\ndeixa-lhe o teu","Àgua mole, pedra dura, tanto\n bate até que fura","Aiolé, Aiolé, fui na casa do\n mestre André"]
+var array = ["Se alguém está tão cansado que não possa te dar um sorriso,deixa-lhe o teu","Àgua mole, pedra dura, tanto bate até que fura","Aiolé, Aiolé, fui na casa do mestre André"]
 
 
 function handleClick(event){
